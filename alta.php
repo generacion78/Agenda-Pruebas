@@ -1,6 +1,7 @@
 <?PHP
 //Este es un comentario
 //Otro más
+//Y otro
 include('conexion.php');
 
  if (is_uploaded_file($_FILES['campo_archivo']['tmp_name'])) { 
