@@ -1,0 +1,1 @@
+<a href="index.php">Inicio</a> | <a href="form_alta.php">Formulario de alta</a>
